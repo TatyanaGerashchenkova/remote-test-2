@@ -22,12 +22,6 @@ string[] ArrayToArrayOf3OrlessLetters(string[] str)
     return result;
 }
 //write function for outtput massive of strings on the screen 
-void PrintArray(string[] array)
-{
-    for (int i = 0; i < array.Length; i++)
-    {
-        System.Console.Write($"{array[i]} ");
-    }
-}
+
 
 
