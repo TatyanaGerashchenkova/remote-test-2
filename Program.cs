@@ -22,7 +22,6 @@ string[] ArrayToArrayOf3OrlessLetters(string[] str)
     return result;
 }
 //write function for outtput massive of strings on the screen 
-<<<<<<< HEAD
 void PrintArray(string[] array)
 {
     for (int i = 0; i < array.Length; i++)
@@ -32,8 +31,5 @@ void PrintArray(string[] array)
 }
 string[] array = { "hello", "2", "world", ":-)" };
 string[] result = ArrayToArrayOf3OrlessLetters(array);
-=======
-
->>>>>>> origin/24-issue
 
 
