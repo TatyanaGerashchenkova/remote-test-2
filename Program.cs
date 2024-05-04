@@ -31,5 +31,5 @@ void PrintArray(string[] array)
 }
 string[] array = { "hello", "2", "world", ":-)" };
 string[] result = ArrayToArrayOf3OrlessLetters(array);
-PrintArray(result);
+
 
